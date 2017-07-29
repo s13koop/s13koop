@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+<img src="https://freightliner.azureedge.net/media/2072/cascadia-vocational-cng-500x300.jpg" alt="My Image">
 
 You can use the [editor on GitHub](https://github.com/s13koop/s13koop/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
